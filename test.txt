@@ -1,1 +1,2 @@
 Some test text here
+some text added directly in master branch
